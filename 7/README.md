@@ -1,0 +1,3 @@
+# Погуглить
+
+- for + mutable iterator

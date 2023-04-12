@@ -27,9 +27,9 @@ def function_to_be_used():
 
 function_to_be_used()
 
-# new_func = hello_decorator(function_to_be_used)
+function_to_be_used = hello_decorator(function_to_be_used)
 
-# new_func()
+# function_to_be_used()
 
 
 # # passing 'function_to_be_used' inside the

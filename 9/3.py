@@ -13,7 +13,8 @@ class Solution:
                 chars[s[end]] = end
                 end += 1
                 cur_len = end - start
-                if cur_len > max_len: max_len = cur_len
+                if cur_len > max_len: 
+                    max_len = cur_len
                 continue
 
             cut_end = chars[s[end]]

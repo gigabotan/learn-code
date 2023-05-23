@@ -1,0 +1,7 @@
+- i am oncall
+- incident
+
+- service not working
+- no access to code
+- have access to server
+
